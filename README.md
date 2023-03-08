@@ -16,7 +16,7 @@ With [Swiper.js](https://swiperjs.com) implemented a beautiful website template 
   parallax: true,
 ```
 
-- **Adding a percentage of parallax**
+- **Adding a percentage of parallax in html**
 ```html
 data-swiper-parallax="20%"
 ```
